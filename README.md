@@ -4,7 +4,7 @@
 ### Projektöversikt
 Detta projekt syftar till att skapa ett automatiserat bevattningssystem för växter inuti en lykta, använder IoT-teknologi för att optimera vattenanvändning och underlätta växtvård.
 
-<img src="./images/bild.png" alt="Min bild">
+![Bild](./bild/bild.png)
 
 
 ### Hårdvara
