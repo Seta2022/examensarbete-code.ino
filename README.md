@@ -67,5 +67,4 @@ Detta projekt syftar till att skapa ett automatiserat bevattningssystem för vä
 - **Systemkontroller**: Implementera widgetar för att kontrollera bevattning, belysning och andra funktioner i systemet.
 - **Anpassning**: Justera tröskelvärden och scheman för bevattning och belysning baserat på växtens behov och omgivningsförhållanden.
 
-### Kontakt
-Seare.taklab@yh.nackademin.se, rene.Ahmuda@yh.nackademin.se.
+
